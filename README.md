@@ -1,5 +1,7 @@
-php-googlemapsfu -- attempt to "reverse engineer" Google-Maps JS for PHP
+php-googlemapsfu
 ========================================================================
+attempt to "reverse engineer" Google-Maps JS for PHP
+
 
 ## Description
 
