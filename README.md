@@ -1,6 +1,6 @@
 php-googlemapsfu
 ========================================================================
-attempt to "reverse engineer" Google-Maps JS for PHP
+sad attempt to "reverse engineer" Google-Maps JS for PHP
 
 
 ## Description
@@ -10,3 +10,7 @@ have similar functionality in pure PHP. This will _not_ generate any Javascript
 to echo/include/whatever into your HTML. 
 
 It is very incomplete so feel free to contribute _and_ to optimize where needed.
+
+## Usage
+
+Please refer to the examples.
